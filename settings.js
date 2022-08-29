@@ -11,8 +11,50 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ - 𝙱𝚘𝚝 𝙸𝚜 𝙰𝚕𝚒𝚟𝚎 ♥️
+ᴜꜱᴇ ᴄᴏᴍᴍᴀɴᴅ ʟɪɴᴇꜱ ᴛᴏ ᴜꜱᴇ ᴛʜᴇ ʙᴏᴛ ✨
+
+
+𝙾𝚠𝚗𝚎𝚍 𝙱𝚢 :- 
+◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ᴇꜱᴩᴏʀᴛꜱ²⁰²²
+
+⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇
+Find Us On Following Media Platforms  👇
+𝕀𝕟𝕧𝕚𝕥𝕖 𝕪𝕠𝕦𝕣 𝕗𝕣𝕚𝕖𝕟𝕕𝕤 𝕒𝕟𝕕 𝕙𝕖𝕝𝕡 𝕦𝕤 𝕥𝕠 𝕘𝕣𝕠𝕨 𝕞𝕠𝕣𝕖 ❤
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔 𝙿𝚊𝚐𝚎 𝙻𝚒𝚗𝚔 :- 👇
+https://www.facebook.com/Rush-To-Kill-Family-109013088448216
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙻𝚒𝚗𝚔 :- 👇
+https://www.youtube.com/channel/UCfSRLZ4XpqzllDL1Ou9kbMw
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚃𝚒𝚔𝚃𝚘𝚔 𝙰𝚌𝚌𝚘𝚞𝚗𝚝 𝙻𝚒𝚗𝚔 :- 👇
+https://vm.tiktok.com/ZSdhoDk2S/
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙  𝙽𝚎𝚠𝚜 𝙶𝚛𝚘𝚞𝚙 𝚕𝚒𝚗𝚔 :- 👇
+https://chat.whatsapp.com/Hlo0l70odya2MuWD9rjFGd
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙  𝙱𝚘𝚝 𝙶𝚛𝚘𝚞𝚙 1 𝚕𝚒𝚗𝚔 :- 👇
+https://chat.whatsapp.com/J2T4d3WvK1w9XdEeqnXJTa
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙  𝙱𝚘𝚝 𝙶𝚛𝚘𝚞𝚙 2 𝚕𝚒𝚗𝚔 :- 👇
+https://chat.whatsapp.com/JOXDe8u6QhLKUdHJXliih4
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙  𝙱𝚘𝚝 𝙶𝚛𝚘𝚞𝚙 2 𝚕𝚒𝚗𝚔 :- 👇
+https://chat.whatsapp.com/GGVJUj6rHXr4pEr3O9Rukw
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙻𝚒𝚗𝚔 :- 👇
+https://t.me/Rush2Kill_Official
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚘 𝙻𝚒𝚗𝚔 :- 👇
+https://t.me/+8oWmZZaGC4M4NTA1
+
+⭕𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝚂𝚎𝚛𝚟𝚎𝚛 𝙻𝚒𝚗𝚔 :- 👇
+https://discord.gg/xtqSuu5xgG
+
+⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇
+
+〄ｐｏｗｅｒｄ   ｂｙ - Ꭱ2ᴋ᭄ᴠɪɴᴢ亗²⁰²² ` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,34 +71,34 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94761836780'] // owner number
+global.ownername = "◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ᴇꜱᴩᴏʀᴛꜱ" // owner name
+global.ytname = "◤Rush To Kill◢ Family Official" // yt chanel name
+global.socialm = "◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ᴇꜱᴩᴏʀᴛꜱ" // github or insta name
+global.location = "Sri Lanka" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/XtTxybr/20220721-184942.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.antilink = "true" // To remove group link sharing peoples
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94761836780']
+global.ownertag = '+94761836780' //your tag number
+global.botname = '◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ' //ur bot name
+global.packname = "𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚆𝚒𝚝𝚑 - ◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ" // sticker packname
+global.author = "◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ᴇꜱᴩᴏʀᴛꜱ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ²⁰²²-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94761836780'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -64,22 +106,22 @@ global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    success: 'Done ✅ - සාර්ථකයි ✅',
+    admin: 'Only Admins can use it !😉 - ඔබ කණ්ඩායම් පරිපාලකයෙකු නොවේ !😉',
+    botAdmin: 'Bot wants to be an Admin 😥 - Bot කණ්ඩායම් පරිපාලකයෙක් නොවන බැවින් ඉටුකළ නොහැක 😥',
+    owner: 'Only Owner can use this !😉 - මෙය හිම්කරුට පමණක් භාවිතා කල හැක !😉 ',
+    group: 'Feature Used Only For Groups ! - Groups සදහා පමණක් වූ පහසුකම් !',
+    private: 'This Features Only For Private Chat ! - මේ පහසුකම පෞද්ගලික සංවාද සදහා සීමා කර ඇත !',
+    bot: 'This Feature Is Only For Bot😝 - මේ පහසුකම Bot සදහා සීමා කර ඇත😝',
+    wait: '👉👈Pleas Wait ... සුට්ටක් ඉන්න හොදේ ...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban',
-    badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
-    spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\nPowered By: *ʀᴇᴅ-ᴅʀᴀɢᴏɴ*',
-    caption: 'Generated by: ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ*'
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours - ඔබගේ දෛනික සීමාව ඉක්මවා ගොස් ඇත, සෑම පැය 12කට වරක් සීමාව නැවත සකසනු ලැබේ',
+    linkm: 'Where is the link? - ලින්ක් එක කොහෙද?',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate - nsfw විශේෂාංගය සක්‍රිය කර නැත, කරුණාකර සක්‍රිය කිරීමට කණ්ඩායම් පරිපාලක අමතන්න',
+    banChat: 'The bot was banned in this group, please contact the owner to unban - මෙම සමූහයේ බොට් තහනම් කර ඇත, කරුණාකර තහනම් නොකිරීමට කණ්ඩායම් හිමිකරු අමතන්න',
+    badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️- *🚫නරක වචන මෙහි ඉඩ නොදේ !*\n\n⚠️ අවවාදයයි... ⚠️',
+    spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated. - ⚠️ [SPAM] අනාවරණය විය ⚠️\n\nහදිසි ආරක්ෂක පද්ධතිය සක්‍රිය කර ඇත.\n\nPowered By: *◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ²⁰²²-ᴍᴅ*',
+    caption: 'Generated by: ◉ *◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ²⁰²²-ᴍᴅ*'
 } // END \\
     global.limitawal = {
     premium: "Infinity",
