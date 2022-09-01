@@ -84,7 +84,7 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "true" // To remove group link sharing peoples
+global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
@@ -94,7 +94,7 @@ global.ownertag = '+94761836780' //your tag number
 global.botname = '◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ' //ur bot name
 global.packname = "𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚆𝚒𝚝𝚑 - ◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ" // sticker packname
 global.author = "◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ᴇꜱᴩᴏʀᴛꜱ" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '♾️' // Menu emoji
 global.footer = '[ ◉ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ²⁰²²-ᴍᴅ ]' //
 
 //database
@@ -136,12 +136,12 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thum = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.ibb.co/XtTxybr/20220721-184942.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.ibb.co/XtTxybr/20220721-184942.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.ibb.co/XtTxybr/20220721-184942.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://i.ibb.co/XtTxybr/20220721-184942.jpg") //ur thumb pic
 
-global.thumb = fs.readFileSync('./Android/AllData/theme/repl.jpg')
+global.thumb = fs.readFileSync('https://i.ibb.co/XtTxybr/20220721-184942.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
