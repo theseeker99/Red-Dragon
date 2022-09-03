@@ -11,8 +11,50 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = ` 🆃🅷🅴 🆂🅴🅴🅺🅴🆁'🆂 🅲🅰🆅🅴
+╔💠Welcome Seekers 
+∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ  𝔰Ẹᗴ𝓴€я  ℝĎ€  𝒹ᖇⒶᎶㄖⓃ  𝙱𝚘𝚝 𝙸𝚜 𝙰𝚕𝚒𝚟𝚎 ♥️ ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙
+
+ᴜꜱᴇ ᴄᴏᴍᴍᴀɴᴅ ʟɪɴᴇꜱ ᴛᴏ ᴜꜱᴇ ᴛʜᴇ ʙᴏᴛ 👌
+
+𝙾𝚠𝚗𝚎𝚍 𝙱𝚢 :- 
+░▒▓█►─═  𝓉𝓱𝓔 şᵉ𝐞ЌⒺ𝕣 ═─◄█▓▒░
+
+⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇
+Reach Us on these platformes  👇
+𝕀𝕟𝕧𝕚𝕥𝕖 𝕪𝕠𝕦𝕣 𝕗𝕣𝕚𝕖𝕟𝕕𝕤 𝕒𝕟𝕕 𝕙𝕖𝕝𝕡 𝕦𝕤 𝕥𝕠 𝕘𝕣𝕠𝕨 𝕞𝕠𝕣𝕖 ❤
+
+🟦𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔 𝙿𝚊𝚐𝚎 𝙻𝚒𝚗𝚔 :- 👇
+https://www.facebook.com/grandtutorialacademy
+
+🟥𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙻𝚒𝚗𝚔 :- 👇
+https://www.youtube.com/channel/UCs2B-CslcZ0sTH6Tesp_-Kg
+
+🟩𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙶𝚛𝚘𝚞𝚙 𝚕𝚒𝚗𝚔 :- 👇
+https://chat.whatsapp.com/JVp2vvQccDJ6dg42nPxjYk
+
+🟦𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 Telegram Link :- 👇
+https://t.me/the_seeker_s_cave
+
+🟦𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 Torrent Seed 𝙱𝚘𝚝 Gr𝚘𝚞𝚙 (Seed any Torrent without size limit):- 👇
+https://t.me/Master_Torrenz_s_Cave
+
+🟦𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 Movie Search 𝙱𝚘𝚝 𝚕𝚒𝚗𝚔 :- 👇
+https://t.me/TSSC_Filter_bot
+
+🟦𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 Telegram File Upload 𝙱𝚘𝚝 𝚕𝚒𝚗𝚔 :- 👇
+https://t.me/TSSC_Cloud_Upload_bot
+
+🔳𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 Discord Server 𝙻𝚒𝚗𝚔 :- 👇
+https://discord.gg/naztKBmzmQ
+
+🔳𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 Discord Music Bot 𝙻𝚒𝚗𝚔 :- 👇
+https://cutt.ly/ZCfiS6E
+
+⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇
+
+•._.••´¯``•.¸¸.•` 〄ｐｏｗｅｒｄ   ｂｙ `•.¸¸.•´´¯`••._.• - 🆃🅷🅴 🆂🅴🅴🅺🅴🆁'🆂 🅲🅰🆅🅴 
+` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,10 +71,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94702179915'] // owner number
+global.ownername = "░▒▓█►─═  𝓉𝓱𝓔 şᵉ𝐞ЌⒺ𝕣 ═─◄█▓▒░" // owner name
+global.ytname = "The Seeker Gaming" // yt chanel name
+global.socialm = "GitHub: https://github.com/theseeker99" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -47,16 +89,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94702179915']
+global.ownertag = '+94702179915' //your tag number
+global.botname = '♦💘  мℝ.ⓓＲαＧ𝓞ภ  🌷💀' //ur bot name
+global.packname = " ♦💘  мℝ.ⓓＲαＧ𝓞ภ  🌷💀 Sticker" // sticker packname
+global.author = "░▒▓█►─═  𝓉𝓱𝓔 şᵉ𝐞ЌⒺ𝕣 ═─◄█▓▒░" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ 🔳  🆃🅷🅴 🆂🅴🅴🅺🅴🆁'🆂 🅲🅰🆅🅴  🔳 ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94702179915'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
