@@ -78,7 +78,7 @@ global.socialm = "◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ᴇꜱᴩᴏʀᴛꜱ" // github 
 global.location = "Sri Lanka" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/XtTxybr/20220721-184942.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
